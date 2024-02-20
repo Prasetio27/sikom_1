@@ -1,5 +1,5 @@
 <!-- main-sidebar -->
-			<div class="app-sidebar__overlay" data-bs-toggle="sidebar"></div>
+<div class="app-sidebar__overlay" data-bs-toggle="sidebar"></div>
 			<div class="sticky">
 				<aside class="app-sidebar sidebar-scroll">
 					<div class="main-sidebar-header active">
